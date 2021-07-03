@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OddGallery</string>
+    <string name="welcome_title">欢迎来到奇巧画廊</string>
+    <string name="english_welcome_title">Welcome to Odd Gallery</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+    <string name="json_exception">Something wrong when parsing JSON file!</string>
+    <string name="author_tag">作者：</string>
+    <string name="chinese_comma">，</string>
+    <string name="location_tag">所在地：</string>
+    <string name="description_tag">描述：</string>
+    <string name="english_author_tag">"Author: "</string>
+    <string name="english_comma">", "</string>
+    <string name="english_location_tag">"Location: "</string>
+    <string name="english_description_tag">"Description: "</string>
+
+    <string-array name="painting_name">
+        <item>被拖去解体的战舰无畏号</item>
+        <item>自由领导人民</item>
+        <item>死之岛</item>
+        <item>拾穗者</item>
+    </string-array>
+</resources>
